@@ -24747,7 +24747,7 @@
     "id": "getnote-importer",
     "name": "Dedao Brain Sync",
     "author": "Andy Zheng（公众号：关山的月儿）",
-    "description": "BEST sync plugin for Dedao-Brain, try it! - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "最好用的 【得到大脑/Get笔记 Obsidian】 插件（永久免费） - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "andyzhengyan/obsidian-getnote-importer"
   },
   {
@@ -40630,7 +40630,7 @@
     "id": "tw-read-aloud",
     "name": "Hans TW TTS",
     "author": "Hans Lin 林思翰",
-    "description": "用系統內建繁中語音朗讀筆記,逐句反白跟讀,介面全繁體中文。Read notes aloud with a built-in Traditional Chinese system voice and sentence-by-sentence highlight follow. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Traditional-Chinese-first TTS for notes with offline system, Edge CLI or Azure voices, sentence highlighting, folder playback, cursor start, pronunciation rules, and Callout/Highlightr support. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hansai-art/obsidian-tw-tts"
   },
   {
@@ -40800,13 +40800,6 @@
     "author": "Masoud Masoumi",
     "description": "Track your reading: search for books, log progress by page, percent, or listening time, and keep notes on every book in one place. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "masoudmim/obsidian-dogear"
-  },
-  {
-    "id": "claudian-plus",
-    "name": "Claudian Plus",
-    "author": "wuyifan-code",
-    "description": "A Codex-first enhanced Claudian fork for local-first knowledge work in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "wuyifan-code/Claudian-plus"
   },
   {
     "id": "knowstruct",
@@ -42914,13 +42907,6 @@
     "author": "quietbyday",
     "description": "Clean YouTube links and timestamps: strip notification counts, make timestamp URLs readable, and link bare time notations to a note's source video. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "quietbyday/obsidian-yt-links"
-  },
-  {
-    "id": "lark-knowledge-ai",
-    "name": "Lark Knowledge AI",
-    "author": "7heozzz",
-    "description": "Ask AI questions about your vault in natural language. Semantic search over notes and PDFs, answers with clickable citations, running entirely on your own machine. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "iamtheozzz/lark-knowledge-ai"
   },
   {
     "id": "myhistory",
@@ -46734,7 +46720,7 @@
     "id": "star-icons",
     "name": "Star Icons",
     "author": "Kerekes Stefan",
-    "description": "The icon collection manager for Obsidian. Browse and manage 1600+ bundled icons from Lucide, Material Symbols and custom star packs, build collections and tags, and apply icons to files, folders and tabs with an intuitive rules engine and live preview. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "The icon collection manager for Obsidian. Browse 71,000+ bundled icons, build collections and tags, and apply icons to files, folders and tabs with an intuitive rules engine and live preview. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "stef4678/star-icons"
   },
   {
@@ -46890,13 +46876,6 @@
     "author": "GilbertzzzZZ",
     "description": "Material Design icons for the file explorer, matched by file name, extension and folder name. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gilbertzzzzz/obsidian-material-icon-theme"
-  },
-  {
-    "id": "stacked-tasks",
-    "name": "Stacked Tasks",
-    "author": "Sam Gibb",
-    "description": "Move tasks and subtasks between daily notes. Moving a subtask rebuilds its parent headings in the destination, so context travels with the task. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lowkeysam/stacked-tasks"
   },
   {
     "id": "brainpost",
@@ -47201,7 +47180,7 @@
   },
   {
     "id": "drawculator",
-    "name": "drawculator",
+    "name": "Drawculator for Excalidraw",
     "author": "boogie",
     "description": "Calculates math equations & expressions drawn in Excalidraw - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "alandoescode/drawculator-obsidian"
@@ -47310,13 +47289,6 @@
     "author": "lindongyan",
     "description": "用 OpenAI 兼容 LLM 自动翻译 Obsidian 插件设置弹窗内的全部文本（标签名、描述、按钮等），支持自定义端点/模型/API Key 与测试连接，不修改任何插件文件。 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lindongyan1992/llm-settings-translator"
-  },
-  {
-    "id": "local-font-loader",
-    "name": "Local Font Loader",
-    "author": "InVerse",
-    "description": "Load local fonts (TTF/OTF/WOFF/WOFF2) with Base64 caching. Manage UI, text, code, and math fonts separately. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lmce72/obsidian-local-font-loader"
   },
   {
     "id": "local-note-share",
@@ -47482,7 +47454,7 @@
   {
     "id": "timeline-canvas",
     "name": "Timeline Canvas",
-    "author": "John Fannin",
+    "author": "John",
     "description": "Create a simple timeline or view multiple timeline event streams on a single organized timeline to reveal context. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "pengd0t/TimelineLayout"
   },
@@ -47716,5 +47688,26 @@
     "author": "花海",
     "description": "Preview Markdown notes in Bloomtype and copy styled content to WeChat. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "0flowerocean0/bloomtype-obsidian"
+  },
+  {
+    "id": "obsiminal",
+    "name": "Vault Shell",
+    "author": "Nhat Duy Mai",
+    "description": "Open an interactive terminal inside your Obsidian workspace. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mainhatduy/obsiminal"
+  },
+  {
+    "id": "image-curator",
+    "name": "Image Curator",
+    "author": "Giacer",
+    "description": "An Obsidian plugin for effortlessly organizing and exploring image assets. Right-click an image to create an embedded note, categorize it through a simple GUI, and browse your curated images in visual galleries without writing code or queries. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "giacer/ImageCurator"
+  },
+  {
+    "id": "attachment-link-rules",
+    "name": "Attachment Link Rules",
+    "author": "Viggo Meesters",
+    "description": "Choose link or embed syntax for dropped attachments by file extension. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "viggomeesters/obsidian-attachment-link-rules"
   }
 ]
