@@ -22827,6 +22827,12 @@
     "repo": "benjamincassidy/lighthouse"
   },
   {
+    "id": "full-calendar-plus",
+    "name": "Full Calendar Plus",
+    "author": "Gopendranath",
+    "description": "Extended Full Calendar with a multi-month year view and custom views. Fork of Full Calendar.",
+    "repo": "Gopendranath/full-calendar-plus"
+  },  {
     "id": "full-calendar-remastered",
     "name": "Full Calendar Remastered",
     "author": "Jovi Koikkara",
