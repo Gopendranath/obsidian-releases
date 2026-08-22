@@ -4806,7 +4806,7 @@
   },
   {
     "name": "Neonflux",
-    "author": "Vladyslav",
+    "author": "Vladyslav Novytskyi",
     "repo": "laddtnov/Neonflux",
     "screenshot": "docs/screenshots/dark.png",
     "modes": ["dark", "light"]
@@ -4907,6 +4907,13 @@
     "author": "Shivu",
     "repo": "shivu516/Primidian",
     "screenshot": "assets/images/Primidian_Banner_smol.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Elegance froide",
+    "author": "noahboos",
+    "repo": "rifts-obsidian-laboratory/theme-elegance-froide",
+    "screenshot": "assets/screenshot.png",
     "modes": ["dark", "light"]
   }
 ]
